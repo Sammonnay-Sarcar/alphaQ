@@ -457,3 +457,6 @@ footer {
   transform: rotateX(179.9deg);
   background: none;
 }
+.card-back-content > h1 {
+  font-size: 15px !important;
+}
